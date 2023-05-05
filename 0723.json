@@ -26,7 +26,7 @@
 {"key":"csp_xp_gongreng","name":"🍀工人影视","type":3,"api":"csp_XPathMacFilter","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mifia.github.io/MeowXP/gongreng.json"},
 {"key":"csp_Nmys","name":"🍀农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mifia.github.io/MeowXP/nmys.json"},
 {"key":"csp_xp_vip1280","name":"🍀VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mifia.github.io/MeowXP/vip1280.json"},
-{"key":"csp_AppTT","name":"🍀图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_Vofl","name":"🍀Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_saohuo","name":"🍀骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mifia.github.io/MeowXP/saohuotv.json"},
 {"key":"csp_XYQHiker素白白","name":"🍀素白白","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mifia.github.io/MeowXP/subaibai.json"},
 {"key":"csp_xp_bttwoo","name":"🍀两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://mifia.github.io/MeowXP/bttwoo.json"}, 
