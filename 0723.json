@@ -1,6 +1,6 @@
 //自己学习测试用的
 {
-"spider":"https://gitee.com/mifia/box/raw/master/fan.jar;md5;E48378A2D56EB2D7D9355EDB1B4825E2",
+"spider":"https://mifia.github.io/fan.jar;md5;78CD1E35A26FF5FAF4127AAAC2E7857E",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vbWlmaWEvYm94L3Jhdy9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 
@@ -20,8 +20,8 @@
 {"key":"csp_Xinsj","name":"🍀新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Lib","name": "🍀LIBVIO","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/"},
 //
-{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/mifia/box/raw/master/MeowXP/dm84.json"},
-{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/mifia/box/raw/master/MeowXP/yinghua.json"},
+{"key":"csp_xp_dm84","name":"💢动漫巴士","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mifia.github.io/MeowXP/dm84.json"},
+{"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mifia.github.io/MeowXP/yinghua.json"},
 //
 {"key":"csp_xp_gongreng","name":"🍀工人影视","type":3,"api":"csp_XPathMacFilter","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mifia.github.io/MeowXP/gongreng.json"},
 {"key":"csp_Nmys","name":"🍀农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mifia.github.io/MeowXP/nmys.json"},
