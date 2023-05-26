@@ -1,7 +1,8 @@
 {
 "spider":"https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt;md5;065C92F7720FA01E64086455D201CFE1",
 
-"sites":[{
+"sites":[
+{
       "key": "环亚",
       "name": "环亚",
       "type": 0,
@@ -456,8 +457,9 @@
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
 ],
 "parses":[
-{"name":"默认选项","type":3,"url":"Demo"},
-{"name":"01","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url="},
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name": "Json并发","type": 2,"url": "Parallel"},
+{"name":"网络搜集01","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url="},
 {"name":"网络搜集02","type":1,"url":"https://json.pangujiexi.com/json.php?url="},
 {"name":"网络搜集03","type":1,"url":"https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="},
 {"name":"网络搜集04","type":1,"url":"http://api.vip123kan.vip/?url="},
@@ -467,7 +469,7 @@
 {"name":"网络搜集08","type":1,"url":"https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url="},
 {"name":"网络搜集10","type":1,"url":"https://json.5lp.net/json.php?url="}
 ],
-"flags"["youku","qq","iqiyi","qiyi","letv","sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","fq3","fq4","xueren","duoduo","duoduozy","miaoparty","miaoparty2","miaoparty3","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","fq3","fq4","xueren","duoduo","duoduozy","miaoparty","miaoparty2","miaoparty3","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},
